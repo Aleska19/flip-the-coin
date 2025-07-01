@@ -7,7 +7,7 @@ const resultadoText = document.getElementById('resultado')
 
 function lanzarMoneda  () {
     const isHeads = Math.random() < 0.5;
-    const imagePath = isHeads ? '../resources/heads.svg' : '../resources/tails.svg';
+    const imagePath = isHeads ? './resources/heads.svg' : './resources/tails.svg';
     const resultado = isHeads ? 'Heads' : 'Tails';
 
     resultadoText.textContent =  resultado;
