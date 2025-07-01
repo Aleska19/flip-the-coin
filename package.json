@@ -1,0 +1,12 @@
+{
+  "name": "flip-the-coin-master",
+  "version": "1.0.0",
+  "description": "![Thumbnail for the Flip The Coin coding challenge](./thumbnail.jpg)",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
